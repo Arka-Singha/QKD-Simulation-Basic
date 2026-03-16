@@ -76,7 +76,6 @@ QBER measures the percentage of mismatched bits between Alice and Bob after tran
 QKD-Simulation/
 │
 ├── qkd_simulation.ipynb      # Jupyter notebook implementation
-├── qkd_simulation.py         # Python script version
 ├── README.md                 # Project documentation
 
 ````
@@ -112,21 +111,8 @@ jupyter notebook
 
 Open the project notebook and execute all cells.
 
-### Option 3: Python Script
 
-Save the script as:
 
-```
-qkd_simulation.py
-```
-
-Run:
-
-```bash
-python qkd_simulation.py
-```
-
----
 
 ## Simulation Workflow
 
